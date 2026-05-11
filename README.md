@@ -1,4 +1,4 @@
-# 📊 Codveda Data Science Internship – Task Portfolio
+# 📊 Codveda Data Analysis Internship – Task Portfolio
 
 ## 📁 Level 1: Data Analysis
 * **Task 1: Cleaning** – Handling the Iris dataset by managing missing values and formatting.
