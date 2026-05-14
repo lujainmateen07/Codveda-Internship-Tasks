@@ -12,5 +12,5 @@
 * **Task 1: Classification & Tuning** – Optimized a Random Forest model using Grid Search CV to achieve **100% accuracy** in species prediction.
 * **Task 2: Interactive Dashboard** – Developed a professional Power BI dashboard featuring a custom 2x2 species slicer and modern card-based UI/UX design.
 
----
-**🛠️ Tools Used:** Python (Pandas, Scikit-Learn, Seaborn), Power BI Desktop, Microsoft Excel.
+
+
