@@ -16,21 +16,3 @@
 *A comprehensive UI/UX dashboard built to visualize the Iris dataset classification results and feature distributions.*
 
 #### 📊 Dashboard Gallery:
-![Main Dashboard](Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000429.png)
-
-<p align="center">
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000506.png" width="45%" />
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000519.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000535.png" width="45%" />
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000547.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000608.png" width="45%" />
-  <img src="Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000623.png" width="45%" />
-</p>
-
-![Footer View](Level_3/screenshots%20of%20iris%20dasboard/Screenshot%202026-05-15%20000648.png)
